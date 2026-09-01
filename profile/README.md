@@ -12,39 +12,12 @@ BWAVE는 뇌파(EEG)와 심박변이도(HRV) 생체신호를 AI로 분석하는 
 
 ## 마음결 서비스 라인업
 
-| 서비스 | 플랫폼 | 설명 | 대상 |
-|---|---|---|---|
-| **마음결 미니** | Android / iOS | 스마트폰 카메라 PPG 측정 기반 심박·HRV 셀프케어 | B2C |
-| **마음결 베이직** | Android 태블릿 | 2채널 EEG 측정 기기 연동 정신건강 평가 | B2B (기관·전문가) |
-| 마음결 기어 *(예정)* | - | 고급 평가 | - |
-| 마음결 프로 *(예정)* | - | 우울증·조현병·PTSD 임상 진단 | - |
-
-## App Store
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://apps.apple.com/kr/app/id6477999179" target="_blank">
-        <img src="https://raw.githubusercontent.com/Bwave-dev/.github/main/assets/maumgyeol-mini-ios-icon.png" height="100" width="100" />
-      </a>
-      <br />
-      <a href="https://apps.apple.com/kr/app/id6477999179" target="_blank">마음결 미니 (iOS)</a>
-    </td>
-    <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.bwave.mini" target="_blank">
-        <img src="https://raw.githubusercontent.com/Bwave-dev/.github/main/assets/maumgyeol-mini-android-icon.png" height="100" width="100" />
-      </a>
-      <br />
-      <a href="https://play.google.com/store/apps/details?id=com.bwave.mini" target="_blank">마음결 미니 (Android)</a>
-    </td>
-  </tr>
-</table>
-
-## Open Source
-
-<a href="https://github.com/Bwave-dev/biosig" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bwave-dev&repo=biosig" />
-</a>
+| 서비스 | 플랫폼 | 설명 | 대상 | 앱 |
+|---|---|---|---|---|
+| [**마음결 미니**](https://www.bwaveeeg.com/services/maumgyeol-mini/) | Android / iOS | 스마트폰 카메라 PPG 측정 기반 심박·HRV 셀프케어 | B2C | [App Store](https://apps.apple.com/kr/app/id6477999179) · [Play Store](https://play.google.com/store/apps/details?id=com.bwave.mini) |
+| [**마음결 베이직**](https://www.bwaveeeg.com/services/maumgyeol-basic/) | Android 태블릿 | 2채널 EEG 측정 기기 연동 정신건강 평가 | B2B (기관·전문가) | - |
+| [마음결 기어](https://www.bwaveeeg.com/services/maumgyeol-gear/) *(예정)* | - | 고급 평가 | - | - |
+| [마음결 프로](https://www.bwaveeeg.com/services/maumgyeol-pro/) *(예정)* | - | 우울증·조현병·PTSD 임상 진단 | - | - |
 
 ## 기술
 
